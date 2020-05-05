@@ -1,2 +1,3 @@
-# leeds-xr-website
+# LeedsXR Society Website
+
 Website for LeedsXR Society
